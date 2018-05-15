@@ -38,8 +38,8 @@ class Sender extends React.Component {
 
     // Pubnub
     this.pubnub = new PubNubReact({
-      publishKey: "pub-c-2f92cedd-9637-4fe2-bae0-eac0bbf739b0",
-      subscribeKey: "sub-c-14c70f3e-363e-11e8-84f9-9e6f5e684596"
+      publishKey: "x",
+      subscribeKey: "x"
     });
     this.pubnub.init(this);
   }
