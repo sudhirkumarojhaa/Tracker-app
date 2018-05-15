@@ -1,8 +1,8 @@
 # Tracker-app
 This app is built with the help of React native and PUBNUB framework.
 
-![alt tag](assets/Sender.png)
-![alt tag](assets/Receiver.png)
+![alt tag](./assets/Sender.png)
+![alt tag](./assets/Receiver.png)
 
 
 ###
