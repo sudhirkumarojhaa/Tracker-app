@@ -11,6 +11,9 @@ An app build using React native for dynamic location tracking. You can install t
 
 Clone the repository and use the Profile you want to use i.e Sender/Receiver
 
+### PUBNUB keys
+
+for the channel keys , Create an account in PUBNUB and obtain the key which is to be added in publish and subscribe section within the code to connect and create channel in the database.
 
 ## Clone this repository and follow these steps;
 
