@@ -35,3 +35,9 @@ react-native run-ios (for iOS)
 ```
 react-native run-android (for android)
 ```
+
+## Troubleshooting Steps
+#### App is giving error
+* If this repo is not working for you, I would suggest that you create your own [react-native](https://facebook.github.io/react-native/docs/getting-started.html) project
+* Install [react-native-maps](https://github.com/react-community/react-native-maps/) using their [installation guide](https://github.com/react-community/react-native-maps/blob/master/docs/installation.md)
+* Replace its App.js with this project's App.js
